@@ -1,0 +1,9 @@
+path: D:\ultralytics-8.3.33(yolo)\datasets  # 数据集所在路径
+train: D:\ultralytics-8.3.33(yolo)\datasets\train.txt # 数据集路径下的train.txt
+val: D:\ultralytics-8.3.33(yolo)\datasets\val.txt  # 数据集路径下的val.txt
+test: D:\ultralytics-8.3.33(yolo)\datasets\train.txt  # 数据集路径下的test.txt
+
+# Classes
+names:
+  0: safety belt
+  1: safety belt2

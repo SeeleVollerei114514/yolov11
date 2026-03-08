@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+datasets/
+runs/
+venv/
+.DS_Store
+data/labels.zip
